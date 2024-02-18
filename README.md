@@ -1,6 +1,6 @@
 # Mustafa Sahin
 
-👋 Hello there! I'm Mustafa, a Senior Test Engineer specializing in automation testing.
+👋 Hello there! I'm Mustafa, a Staff QA Engineer specializing in automation testing.
 
 ## 🌱 Currently Learning:
 - **Cloud:** AWS Solutions Architect
